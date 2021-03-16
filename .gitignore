@@ -8,9 +8,12 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+build/
 
 # macOS
 .DS_Store
 
 # Jetbrains
 .idea
+
+.secret
